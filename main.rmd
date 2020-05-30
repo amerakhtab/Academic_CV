@@ -39,13 +39,78 @@ Grades - 1A*, 2A, 1B (out of 4 subjects)
 Maple Leaf International School  
 Grades - 7A (out of 7 subjects)
 
-## **Undergraduate Thesis**  
-**Title**: Optimization of DRX power saving for LTE based IoT devices.  
-**Supervisor**: Dr. Mohammad T. Kawser   
-**Abstract**: One of the key challenges in machine type communication (MTC) is to reduce the energy consumption of the user equipment (UE). In LTE, the key technique to saving power and prolonging battery life is known as discontinuous reception (DRX). The configuration of the extended DRX (eDRX) cycle in Release 13 is a tradeoff between the delay in each session and the paging waste for a user equipment which has a velocity. The objective is to minimize the total battery usage all the while keeping the tradeoff with the delays and the paging wastage minimum as well.
+## **Certifications**
+Data Science Specialization at Coursera (Ongoing)  
 
 ## **Awards**  
 Organization of Islamic Cooperation (OIC) Scholarship at IUT (2014).  
 The Daily Star Achievement Award (A level) (2014).  
-The Daily Star Achievement Award (O level) (2012).  
+The Daily Star Achievement Award (O level) (2012). 
+
+## **Research Interests**
+* Data analytics
+* Machine learning
+
+## **Undergraduate Thesis**  
+**Title**: Optimization of DRX power saving for LTE based IoT devices.  
+**Supervisor**: Dr. Mohammad T. Kawser   
+**Abstract**: One of the key challenges in machine type communication (MTC) is to reduce the energy consumption of the user equipment (UE). In LTE, the key technique to saving power and prolonging battery life is known as discontinuous reception (DRX). The configuration of the extended DRX (eDRX) cycle in Release 13 is a tradeoff between the delay in each session and the paging waste for a user equipment which has a velocity. The objective is to minimize the total battery usage all the while keeping the tradeoff with the delays and the paging wastage minimum as well.  
+
+## **Extra-curricular Activities**
+* Associate Director at Ganim Int’l School, Mahmudpur, Jamalpur, Bangladesh. (since 2014)
+* Contributing Writer at ‘The Weekend Independent’, supplement of a national daily newspaper. (Nov 2015 - Jun 2018)
+* Head of Public Relations of Esonance 2017, a national festival organized at IUT.
+* Volunteer at logistics and food department of Esonance 2015.  
+
+## **Technical Skills**
+* Programming packages | C, Matlab, R
+* Computer aided design | PSpice, Proteus, Microwind, AutoCAD
+
+## **Language Skills**
+* Bengali (Native)
+* English (IELTS Overall Band 8; Validity ended Feb 2020) 
+
+## **Test Scores**
+* GRE (Combined score of 316; Quant 163, Verbal 153, AWA 4.0)
+* IELTS (Band Overall 8. Listening 9, Reading 9, Writing 7, Speaking 7.5; Validity ended Feb 2020)
+
+## **Industrial Training** (November 2016)
+Under the supervision of the Department of EEE, IUT and completed it obtaining the grade A+. Training included industry visits and lectures from professionals in different fields.  
+
+Organization | Area of Focus
+-------------|---------------
+Bangladesh Atomic Energy Commission (BAEC) | Overview of Nuclear Reactor, Reactor Operation, Isotope Generation  
+Bangladesh Telecommunication Limited (BTCL) | Optical Fiber Communication, Wireless and Satellite Communication, Submarine Cable Distribution  
+Adex Group of Industries | Manufacturing of Transformers, Switchgears, Relays and their Quality Testing  
+Micro Fibre Group | Captive Power Station, Operation of a Garments Factory  
+Bangladesh Power Development Board (BPDB) | Generation of Electric Energy from Thermal, HydroNuclear Energy, Distribution of Electrical Power, Operation of a Thermal Power Station  
+
+## **Referencees**
+> **Dr. Mohammad Tawhid Kawser**  
+Professor  
+Department of Electrical and Electronic
+Engineering  
+Islamic University of Technology   
+Phone: +880 1742 205081  
+Email: mkawser@hotmail.com  
+
+> **Dr. Md. Rezaul Kabir**  
+Associate Professor  
+Coordinator, EMBA Program  
+Institute of Business Administration (IBA), University of Dhaka  
+Phone: +880 1917 737788  
+Email:  mrkabir@iba-du.edu  
+
+> **Parveen Ahmed**  
+Consultant  
+Communications, IFC Bangladesh  
+Former Magazine Editor, The Independent(BD)  
+Phone: +880 1778 835833  
+Email: parveen_ahmed@hotmail.com    
+
+
+
+
+
+ 
 
