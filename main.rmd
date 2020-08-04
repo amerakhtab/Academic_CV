@@ -22,7 +22,7 @@ output:
 > 2018-Present  
 **Master of Business Administration (MBA)**  
 Institute of Business Administration, University of Dhaka  
-CGPA - 3.57 out of 4.00  
+CGPA - 3.50 out of 4.00 (Courses Complete) 
 
 > 2014-2017  
 **Bachelor of Science in Electrical and Electronic Engineering (B.Sc.Engg.)**  
@@ -41,6 +41,13 @@ Grades - 7A (out of 7 subjects)
 
 ## **Certifications**
 Data Science Specialization at Coursera (Ongoing)  
+Completed Courses:
+
+* The Data Scientist's Toolbox
+* R Programming
+* Getting and Cleaning Data
+* Exploratory Data Analysis
+* Reproducible Research
 
 ## **Awards**  
 2014-2017 | Organization of Islamic Cooperation (OIC) Scholarship at IUT.  
@@ -50,6 +57,8 @@ Data Science Specialization at Coursera (Ongoing)
 ## **Research Interests**
 * Data analytics
 * Machine learning
+* Bioinformatics
+* Biostatistics
 
 ## **Undergraduate Thesis**  
 **Title**: Optimization of DRX power saving for LTE based IoT devices.  
@@ -63,7 +72,7 @@ Data Science Specialization at Coursera (Ongoing)
 * 2015 | Volunteer at logistics and food department of Esonance 2015.  
 
 ## **Technical Skills**
-* Programming packages | C, Matlab, R
+* Programming packages | C, C++, Matlab, R
 * Computer aided design | PSpice, Proteus, Microwind, AutoCAD
 
 ## **Language Skills**
@@ -74,8 +83,8 @@ Data Science Specialization at Coursera (Ongoing)
 * GRE (Combined score of 316; Quant 163, Verbal 153, AWA 4.0)
 * IELTS (Band Overall 8. Listening 9, Reading 9, Writing 7, Speaking 7.5; Validity ended Feb 2020)
 
-## **Industrial Training** (November 2016)
-Under the supervision of the Department of EEE, IUT and completed it obtaining the grade A+. Training included industry visits and lectures from professionals in different fields.  
+## **Industrial Training** 
+Under the supervision of the Department of EEE, IUT, completed the industrial training in November 2016 and obtained the grade A+. Training included industry visits and lectures from professionals in different fields.  
 
 Organization | Area of Focus
 -------------|---------------
@@ -85,7 +94,7 @@ Adex Group of Industries | Manufacturing of Transformers, Switchgears, Relays an
 Micro Fibre Group | Captive Power Station, Operation of a Garments Factory  
 Bangladesh Power Development Board (BPDB) | Generation of Electrical Energy from Thermal, HydroNuclear Energy, Distribution of Electrical Power, Operation of a Thermal Power Station  
 
-## **Referencees**
+## **References**
 >**Dr. Mohammad Tawhid Kawser**  
 Professor  
 Department of Electrical and Electronic
@@ -94,6 +103,13 @@ Islamic University of Technology
 Phone: +880 1742 205081  
 Email: mkawser@hotmail.com  
 
+>**Dr. Golam Sarowar**  
+Associate Professor  
+Department of Electrical and Electronic Engineering  
+Islamic University of Technology  
+Phone: +880 1844 056137  
+Email: asim@iut-dhaka.edu  
+
 >**Dr. Md. Rezaul Kabir**  
 Associate Professor  
 Coordinator, EMBA Program  
@@ -101,12 +117,7 @@ Institute of Business Administration (IBA), University of Dhaka
 Phone: +880 1917 737788  
 Email:  mrkabir@iba-du.edu  
 
->**Parveen Ahmed**  
-Consultant  
-Communications, IFC Bangladesh  
-Former Magazine Editor, The Independent(BD)  
-Phone: +880 1778 835833  
-Email: parveen_ahmed@hotmail.com    
+ 
 
 
 
