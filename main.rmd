@@ -1,3 +1,4 @@
+  
 ---
 title: "Md. Amer Akhtab Muizz"
 #author: "Amer Akhtab"
@@ -19,15 +20,15 @@ output:
 ---
 ## **Education**
 
-> 2018-Present  
+> 2018-2020  
 **Master of Business Administration (MBA)**  
 Institute of Business Administration, University of Dhaka  
-CGPA - 3.50 out of 4.00 (Courses Complete) 
+CGPA - 3.50 out of 4.00  
 
 > 2014-2017  
 **Bachelor of Science in Electrical and Electronic Engineering (B.Sc.Engg.)**  
 Islamic University of Technology (IUT)  
-CGPA - 3.70 out of 4.00  
+CGPA - 3.70 out of 4.00 
 
 > 2012-2013  
 **Advanced Level (A Level) (Edexcel)**  
@@ -39,8 +40,14 @@ Grades - 1A*, 2A, 1B (out of 4 subjects)
 Maple Leaf International School  
 Grades - 7A (out of 7 subjects)
 
+## **Work Experience**
+
+>November 2020-Present  
+**Management Trainee Officer, E-valy.com limited**  
+Assigned at the Audit & Compliance department. Working on big data analytics using R programming and supporting internal processes.  
+
 ## **Certifications**
-Data Science Specialization at Coursera (Ongoing)  
+Data Science Specialization at Coursera  
 Completed Courses:
 
 * The Data Scientist's Toolbox
@@ -72,7 +79,7 @@ Completed Courses:
 * 2015 | Volunteer at logistics and food department of Esonance 2015.  
 
 ## **Technical Skills**
-* Programming packages | C, C++, Matlab, R
+* Programming packages | C, C++, Matlab, R, Rstudio
 * Computer aided design | PSpice, Proteus, Microwind, AutoCAD
 
 ## **Language Skills**
@@ -80,8 +87,8 @@ Completed Courses:
 * English 
 
 ## **Test Scores**
-* GRE (Combined score of 316; Quant 163, Verbal 153, AWA 4.0)
-* IELTS (Band Overall 8. Listening 9, Reading 9, Writing 7, Speaking 7.5; Validity ended Feb 2020)
+* GRE - Quantitative reasoning 163, Verbal Reasoning 153, Analytical Writing 4.0
+* IELTS - Band Overall 7.5. (Listening 8.5, Reading 8.5, Writing 6.5, Speaking 7)
 
 ## **Industrial Training** 
 Under the supervision of the Department of EEE, IUT, completed the industrial training in November 2016 and obtained the grade A+. Training included industry visits and lectures from professionals in different fields.  
@@ -97,31 +104,20 @@ Bangladesh Power Development Board (BPDB) | Generation of Electrical Energy from
 ## **References**
 >**Dr. Mohammad Tawhid Kawser**  
 Professor  
-Department of Electrical and Electronic
-Engineering  
-Islamic University of Technology   
+Department of Electrical and Electronic Engineering  
+Islamic University of Technology (IUT)   
 Phone: +880 1742 205081  
 Email: mkawser@hotmail.com  
 
->**Dr. Golam Sarowar**  
-Associate Professor  
-Department of Electrical and Electronic Engineering  
-Islamic University of Technology  
-Phone: +880 1844 056137  
-Email: asim@iut-dhaka.edu  
-
->**Dr. Md. Rezaul Kabir**  
-Associate Professor  
-Coordinator, EMBA Program  
+>**Avijit Mallik**  
+Assistant Professor  
 Institute of Business Administration (IBA), University of Dhaka  
-Phone: +880 1917 737788  
-Email:  mrkabir@iba-du.edu  
+Phone: +88-02-9661900  
+Email: avijit@iba-du.edu  
 
- 
-
-
-
-
-
- 
-
+>**Mirza Fuad Adnan**  
+Assistant Professor  
+Department of Electrical and Electronic Engineering  
+Islamic University of Technology (IUT)  
+Phone: +880-2-9291254-59 (ext.-3212)  
+Email: adnan16@iut-dhaka.edu
